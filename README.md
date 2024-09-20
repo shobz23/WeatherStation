@@ -1,4 +1,4 @@
-# WeatherStation
+# Weather Station System
 This project demonstrates the Observer Pattern in Java, applied to a Weather Station System. The Observer Pattern allows an object (the subject) to notify other objects (the observers) of any changes in its state without needing to tightly couple the objects.
 
 Key Features:
